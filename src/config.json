@@ -1,0 +1,6 @@
+{
+    "token": "bot token",
+    "guildId": "guild id",
+    "clientId": "client id",
+    "url": "http://localhost:3000"
+}
